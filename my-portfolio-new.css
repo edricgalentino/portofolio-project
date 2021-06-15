@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'open_sansregular';
+  src: url('OpenSans-Regular-webfont.woff') format('woff'),
+}
+
+#home a.nav-link:hover {
+  background-color: #D6F8D6;
+  color: black;
+}
+.navbar{
+  background-color: #b8e2bd
+}
+.akhir-about{
+  position: absolute;
+}
+.jumbotron {
+  padding-top: 110px;
+  background-color: #D6F8D6;
+  text-align:center;
+}
+.display-4 {
+  font-size: 45px;
+}
+#project {
+  background-color: #D6F8D6;
+}
+.card{
+  transition: 0.2s;
+}
+.card:hover{
+  margin-top: -5px;
+  transition: 0.2s;
+}
+section {
+  padding-top: 5rem;
+}
+section #about {
+  padding-top: 5rem;
+  font-family: 'open_sansregular';
+}
+footer{
+  background-color:#D6F8D6;
+}
+.btn{
+  background-color: #D6F8D6;
+  color: #000;
+}
+.btn:hover{
+  background-color: #abc7ab;
+  color: #000;
+}
+.text-black a.text-black {
+  text-decoration: none;
+  color: #000;
+}
+.text-black a.text-black:hover {
+  text-decoration: underline;
+}
