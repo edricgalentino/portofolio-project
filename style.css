@@ -10,6 +10,11 @@
 .navbar{
   background-color: rgb(144, 238, 144);
 }
+@media screen and (max-width:999px) {
+  #navbarNav {
+      text-align: center;
+  }
+}
 .akhir-about{
   position: absolute;
 }
