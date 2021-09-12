@@ -57,7 +57,7 @@ footer{
 .text-black a.text-black:hover {
   text-decoration: underline;
 }
-.btn-loading {
+.btn-loading, .my-alert {
   background-color: rgb(144, 238, 144);
   color: #000;
 }
