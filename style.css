@@ -8,21 +8,21 @@
   color: black;
 }
 .navbar{
-  background-color: #b8e2bd
+  background-color: rgb(144, 238, 144);
 }
 .akhir-about{
   position: absolute;
 }
 .jumbotron {
   padding-top: 110px;
-  background-color: #D6F8D6;
+  background-color: rgb(144, 238, 144);
   text-align:center;
 }
 .display-4 {
   font-size: 45px;
 }
 #project {
-  background-color: #D6F8D6;
+  background-color: rgb(144, 238, 144);
 }
 .card{
   transition: 0.2s;
@@ -39,15 +39,16 @@ section #about {
   font-family: 'open_sansregular';
 }
 footer{
-  background-color:#D6F8D6;
+  background-color:rgb(144, 238, 144);
 }
 .btn{
-  background-color: #D6F8D6;
+  background-color:rgb(144, 238, 144);
   color: #000;
 }
 .btn:hover{
-  background-color: #abc7ab;
-  color: #000;
+  background-color: #ffffff;
+  color: rgb(67, 148, 67);
+  border: 1px solid rgb(95, 204, 95);
 }
 .text-black a.text-black {
   text-decoration: none;
@@ -55,4 +56,8 @@ footer{
 }
 .text-black a.text-black:hover {
   text-decoration: underline;
+}
+.btn-loading {
+  background-color: rgb(144, 238, 144);
+  color: #000;
 }
