@@ -317,6 +317,7 @@ footer .container .link a:hover{
     }
     #capabilities .container .img-work img{
         margin: 1rem auto 2.5rem;
+        width: 300px;
     }
     #capabilities .container .main-capabilities{
         width: 95%;
