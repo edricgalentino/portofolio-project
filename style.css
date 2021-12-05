@@ -33,6 +33,7 @@ nav a{
 }
 a{
     text-decoration: none;
+    transition: .5s;
 }
 a.navbar-brand:hover{
     color: lightsalmon;
@@ -81,6 +82,7 @@ li:nth-child(3) a:hover, .green-text{
 }
 .text-container svg.arrow{
     transform: rotate(90deg);
+    transition: .5s;
 }
 .text-container a:hover svg.arrow{
     margin-top: 4px;
@@ -124,6 +126,7 @@ section .container h4{
 section .container a .arrow, button.link .arrow{
     margin-left: 20px;
     margin-top: -7px;
+    transition: .5s;
 }
 section .container a:hover .arrow, button:hover.link .arrow{
     margin-left: 30px;
@@ -232,6 +235,7 @@ section .container .list-work .testimoni .testi-profile{
 #contact .container .title.email h2 a{
     color: lightskyblue;
     border-bottom: 5px solid transparent;
+    transition: .5s;
 }
 #contact .container .title.email h2 a:hover{
     border-bottom: 5px solid lightskyblue;
